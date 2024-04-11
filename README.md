@@ -141,5 +141,5 @@ Você precisará substituir "sudo service squid restart" e "sudo service another
 
 Depois de criar e testar o script, você pode agendar sua execução com o cron, seguindo os mesmos passos descritos anteriormente. Certifique-se de testar o script e a programação do cron para garantir que tudo funcione conforme o esperado.
 
-$$ Lembre-se use com sabedoria o conhecimento como disse o Homen Aranha se fosse fizer merda: "Isso não é problema meu"
+$$ Lembre-se use com sabedoria o conhecimento como disse o Homen Aranha se voçê fizer merda: "Isso não é problema meu" boa sorte*
 
