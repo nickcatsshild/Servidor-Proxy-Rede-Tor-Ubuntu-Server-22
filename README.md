@@ -1,5 +1,9 @@
 # Criar uma rede com segurança e privacidade utilizando a Rede Tor
 
+O que vou precisar de material?
+Simples você precisa de um computador simples instalar Ubuntu Server 22 - Maquina fisica
+Maquina virtual, criando pelo seu virtualizador preferido.
+
 Para configurar um servidor Ubuntu 22.04 como um proxy Tor para compartilhar a rede Tor para outras máquinas na sua rede interna, você pode seguir os passos abaixo:
 
     Instale o Tor:
